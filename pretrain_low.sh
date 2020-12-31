@@ -1,0 +1,1 @@
+python scripts/train_model.py --env Ant_Low --alg SAC -t 2500000 --learning-rate 0.0008 --batch-size 100 --layers 400 300 --reset-prob 0.1 --buffer-size 1000000 --delta-max 4.0 --time-limit 100

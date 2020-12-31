@@ -1,0 +1,1 @@
+python scripts/train_model.py --env Ant_High --alg SAC -t 200000 --time-limit 50 --policy 12_30_20/Ant_Low_SAC_0

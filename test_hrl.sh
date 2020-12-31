@@ -1,0 +1,1 @@
+python3 scripts/test_hrl_model.py -l 12_30_20/Ant_Discriminator_DSAC_0 -m 12_30_20/AntMaze_High_KLSAC_Finetune_0
